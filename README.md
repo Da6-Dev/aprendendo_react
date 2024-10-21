@@ -1,4 +1,4 @@
-# React Learning Repository
+# Aprendendo React Repositório
 
 Bem-vindo ao meu repositório de aprendizado de React! Aqui estão os arquivos e projetos que estou desenvolvendo enquanto exploro e pratico os conceitos essenciais do React.
 
