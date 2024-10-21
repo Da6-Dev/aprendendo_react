@@ -1,0 +1,24 @@
+.cardProfile{
+    width: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 1rem;
+    border: 1px solid #000000;
+    border-radius: 1rem;
+}
+
+.imgProfile{
+    width: 200px;
+    height: 300px;
+    border-radius: 1rem;
+}
+
+.nameProfile{
+    font: 2.5rem
+}
+
+.workProfile{
+    font: 1.5rem;
+}  
