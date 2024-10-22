@@ -1,6 +1,8 @@
 import './App.css';
 import Pessoa from './components/Pessoa.js';
 import List from './components/List.js';
+import Butao from './components/Butao.js';
+import Form from './components/Form.js';
 
 
 function App() {
@@ -14,6 +16,17 @@ function App() {
       </div>
       <div className="Container">
         <List/>
+      </div>
+      <div className="Container">
+        <div>
+          <h1>Testando Eventos</h1>
+          <p>Clique para testar evento de click!</p>
+          <Butao numero={1}/>
+          <Butao numero={2}/>
+        </div>
+      </div>
+      <div className="Container">
+        <Form/>
       </div>
     </div>
   );
