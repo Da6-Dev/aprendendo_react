@@ -3,6 +3,7 @@ import Pessoa from './components/Pessoa.js';
 import List from './components/List.js';
 import Butao from './components/Butao.js';
 import Form from './components/Form.js';
+import Count from './components/Count.js';
 
 
 function App() {
@@ -27,6 +28,9 @@ function App() {
       </div>
       <div className="Container">
         <Form/>
+      </div>
+      <div className="Container">
+        <Count/>
       </div>
     </div>
   );
