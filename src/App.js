@@ -1,7 +1,7 @@
 import './App.css';
 import Pessoa from './components/Pessoa.js';
 import List from './components/List.js';
-import Butao from './components/Butao.js';
+import Butao from './components/evento/Butao';
 import Form from './components/Form.js';
 import Count from './components/Count.js';
 
